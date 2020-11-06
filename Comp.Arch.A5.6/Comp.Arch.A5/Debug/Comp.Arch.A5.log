@@ -1,0 +1,4 @@
+﻿  Comp.Arch.A5.cpp
+D:\Programming\Comp.Arch.A5\Comp.Arch.A5\Comp.Arch.A5.cpp(699): warning C4715: 'execute': not all control paths return a value
+D:\Programming\Comp.Arch.A5\Comp.Arch.A5\Comp.Arch.A5.cpp(726): warning C4715: 'mux': not all control paths return a value
+  Comp.Arch.A5.vcxproj -> D:\Programming\Comp.Arch.A5\Comp.Arch.A5\Debug\Comp.Arch.A5.exe
